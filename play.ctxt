@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=play
+comment0.text=\r\n\ Ap\u0103sarea\ acestui\ buton\ determin\u0103\ \u00EEnceperea\ ac\u021Biunii,\ precum\ \u0219i\ ini\u021Bializarea\ a\ mai\ multor\ variabile\ statice\ f\u0103r\u0103\ de\ care\ jocul\ nu\ poate\ func\u021Biona.\r\n\ Este\ esen\u021Bial\ ca\ juc\u0103torul\ s\u0103\ apese\ pe\ play,\ astfel\ c\u0103,\ \u00EEn\ caz\ contrar,\ variabilele\ nu\ se\ vor\ ini\u021Bializa,\ iar\ jocul\ nu\ va\ merge\ corespunz\u0103tor.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ play\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ initOKim()
+comment3.params=
+comment3.target=void\ disclaimer()
+numComments=4

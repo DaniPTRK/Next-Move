@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=prisonexterior
+comment0.text=\r\n\ \ Exteriorul\ pu\u0219c\u0103riei\ care\ prezint\u0103\ conducerea\ lui\ Aurel\ (\u00EEn\ cazul\ unei\ dictaturi\ militare\ sau\ al\ unei\ anarhii)\ \u00EEn\ interiorul\ ei.\r\n
+comment1.params=
+comment1.target=prisonexterior()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ prisonexterior.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ walk()
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=5

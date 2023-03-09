@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=radiocut
+comment0.text=\r\n\ Este\ anun\u021Bat\ c\u00E2\u0219tig\u0103torul\ alegerilor.\r\n
+comment1.params=
+comment1.target=radiocut()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ radiocut.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=
+comment4.target=void\ check()
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=exit_help
+comment0.text=\r\n\ \ \ Buton\ utilizat\ pentru\ ie\u0219irea\ din\ diferite\ lumi.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Acest\ buton\ ac\u021Bioneaz\u0103\ \u00EEn\ func\u021Bie\ de\ lumea\ \u00EEn\ care\ se\ afl\u0103,\ el\ fiind\ utilizat\ \u00EEn\ principal\ pentru\ a\ ie\u0219i\ din\ lumea\ respectiv\u0103,\ dar\ av\u00E2nd\ tosu\u0219i\ \u0219i\ alte\ \u00EEnsu\u0219iri.\r\n
+numComments=2

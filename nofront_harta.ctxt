@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=nofront_harta
+comment0.text=\r\n\ Aici\ este\ prezentat\u0103\ sc\u0103derea\ treptat\u0103\ a\ pam\u00E2nturilor\ de\u021Binute\ de\ Rom\u00E2nia.\r\n\ Aceast\u0103\ scen\u0103\ apare\ \u0219i\ atunci\ c\u00E2nd\ utilizatorul\ pierde\ \u00EEn\ fa\u021Ba\ Rusiei\ sau\ a\ Austro-Ungariei.\r\n
+comment1.params=
+comment1.target=nofront_harta()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ nofront_harta.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=r\ gout\ gin\ o1\ o2
+comment3.target=void\ transition(int,\ greenfoot.Actor,\ greenfoot.Actor,\ int,\ int)
+comment4.params=
+comment4.target=void\ prepare()
+numComments=5

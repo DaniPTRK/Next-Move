@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=anarhie
+comment0.text=\r\n\ \ Aceast\u0103\ scen\u0103\ este\ similar\u0103\ cu\ scenele\ ce\ apar\ \u00EEn\ urma\ pornirii\ dictaturii\ militare\ sau\ a\ \u00EEnfr\u00E2ngerii.\r\n
+comment1.params=
+comment1.target=anarhie()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ anarhie.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ walk()
+comment4.params=
+comment4.target=void\ prepare()
+numComments=5

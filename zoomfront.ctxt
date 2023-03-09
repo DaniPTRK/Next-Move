@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=zoomfront
+comment0.text=\r\n\ Scen\u0103\ care\ prezint\u0103\ momentul\ ocup\u0103rii\ Transilvaniei\ de\ c\u0103tre\ trupele\ rom\u00E2ne\ \u00EEn\ 1918\ prin\ ridicare\ drapelului.\r\n
+comment1.params=
+comment1.target=zoomfront()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ setDown()
+comment4.params=
+comment4.target=void\ setUp()
+comment5.params=
+comment5.target=void\ prepare()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=birou_manual
+comment0.text=\r\n\ Loc\ de\ \u00EEnv\u0103\u021Bare.\r\n
+comment1.params=
+comment1.target=birou_manual()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ birou_manual.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=caz\ j
+comment3.target=void\ turnpages(int,\ int)
+comment4.params=
+comment4.target=void\ prepare()
+numComments=5

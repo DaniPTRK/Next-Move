@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=choice_gen
+comment0.text=\r\n\ \ Scen\u0103\ de\ alegere\ a\ generalilor\ at\u00E2t\ la\ \u00EEnceput,\ c\u00E2t\ \u0219i\ pe\ parcursul\ jocului.\r\n\ \ ATEN\u021AIE\:\ Dac\u0103\ un\ ministru\ sau\ diplomat\ este\ dat\ afar\u0103,\ acesta\ NU\ mai\ poate\ fi\ recuperat\ dec\u00E2t\ dac\u0103\ jocul\ este\ luat\ de\ la\ cap\u0103t.\r\n
+comment1.params=
+comment1.target=choice_gen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ choice_gen.\r\n\ \r\n
+comment10.params=
+comment10.target=void\ prepare()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=b
+comment3.target=void\ chooses(int)
+comment4.params=
+comment4.target=void\ changeRes()
+comment5.params=
+comment5.target=void\ aparitie()
+comment6.params=
+comment6.target=void\ disparitie()
+comment7.params=
+comment7.target=void\ choose()
+comment8.params=b\ a
+comment8.target=void\ check(int,\ int)
+comment9.params=
+comment9.target=void\ checkNumber()
+numComments=11

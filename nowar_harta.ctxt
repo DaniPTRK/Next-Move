@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=nowar_harta
+comment0.text=\r\n\ Loc\ de\ verificare\ al\ progresului\ \u0219i\ scen\u0103\ de\ final.\r\n
+comment1.params=
+comment1.target=nowar_harta()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ nowar_harta.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment4.params=
+comment4.target=void\ init()
+numComments=5

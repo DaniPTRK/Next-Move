@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Inter
+comment0.text=\r\n\ \ Obiect\ utilizat\ pentru\ tranzi\u021Bii.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Inter\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ init()
+comment3.params=j
+comment3.target=void\ passday1(int)
+comment4.params=j
+comment4.target=void\ passday2(int)
+numComments=5

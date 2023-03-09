@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=pupitru_generali_front
+comment0.text=\r\n\ Loc\ de\ analizare\ a\ mini\u0219trilor\ de\u021Binu\u021Bi\ actual,\ dar\ \u0219i\ loc\ de\ alegere\ a\ ministrului/diplomatului\ demis.\r\n
+comment1.params=
+comment1.target=pupitru_generali_front()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ pupitru_generali_front.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ pick()
+comment4.params=
+comment4.target=void\ check()
+comment5.params=
+comment5.target=void\ prepare()
+comment5.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment6.params=
+comment6.target=void\ init()
+numComments=7

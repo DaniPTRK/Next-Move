@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Text
+comment0.text=\r\n\ \ Cod\ utilizat\ pentru\ obiectele\ setate\ cu\ imagini\ de\ tip\ String.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Text\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=i
+comment2.target=void\ showText(int)
+comment3.params=j\ a\ size\ cl
+comment3.target=void\ TextFadeIn(int,\ java.lang.String,\ int,\ greenfoot.Color)
+comment4.params=
+comment4.target=void\ removeText()
+comment5.params=j
+comment5.target=void\ TextFadeOut(int)
+comment6.params=type\ dif
+comment6.target=void\ changeExceedingResources(int,\ int)
+numComments=7

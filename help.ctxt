@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=help
+comment0.text=\r\n\ Ap\u0103sarea\ acestui\ buton\ determin\u0103\ apari\u021Bia\ unui\ ghid\ care\ indic\u0103\ controalele\ esen\u021Biale\ ale\r\n\ jocului.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ help\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

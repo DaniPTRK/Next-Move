@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=calendar2
+comment0.text=\r\n\ Codul\ este\ similar\ cu\ cel\ de\ la\ primul\ calendar,\ av\u00E2nd\ doar\ o\ apari\u021Bie\ de\ text.\r\n
+comment1.params=
+comment1.target=calendar2()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ calendar2.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+numComments=4

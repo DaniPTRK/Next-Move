@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=startscr
+comment0.text=\r\n\ Aici\ are\ loc\ ini\u021Bializarea\ lumii\ de\ \u00EEnceput,\ unde\ vor\ ap\u0103rea\ 3\ butoane\:\ play,\ help\ \u0219i\ exit.\r\n\ ATEN\u021AIE\!\ Acest\ joc\ este\ realizat\ cu\ ajutorul\ unor\ variabile\ statice\ f\u0103r\u0103\ de\ care\ jocul\ nu\ poate\ func\u021Biona\ corespunz\u0103tor.\r\n\ Este\ NECESAR\ ca\ utilizatorul\ s\u0103\ apese\ pe\ butonul\ de\ PLAY\ pentru\ ca\ jocul\ s\u0103\ func\u021Bioneze\ normal.\r\n
+comment1.params=
+comment1.target=startscr()
+comment1.text=\r\n\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+numComments=4

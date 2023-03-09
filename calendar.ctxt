@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=calendar
+comment0.text=\r\n\ \ Prima\ scen\u0103\ a\ jocului.\r\n
+comment1.params=
+comment1.target=calendar()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ calendar.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=medalie
+comment0.text=\r\n\ Scen\u0103\ care\ prezint\u0103\ medalierea\ lui\ Aurel.\r\n
+comment1.params=
+comment1.target=medalie()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ medalie.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+numComments=4
